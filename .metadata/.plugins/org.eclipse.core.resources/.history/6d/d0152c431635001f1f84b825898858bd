@@ -1,0 +1,16 @@
+package a.basic;
+
+public class Output {
+
+	public static void main(String[] args) {
+
+		System.out.print("안녕하세요 ");
+		System.out.println("정주희입니다");
+		System.out.println("안녕하세요");
+		
+		
+		
+		
+	}
+
+}
